@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="openvpn_channel_name_error">Lỗi OpenVPN</string>
+    <string name="openvpn_channel_description_error">Thông báo lỗi OpenVPN</string>
+    <string name="openvpn_notification_disconnected_error">OpenVPN bị ngắt kết nối do lỗi</string>
+    <string name="notifcation_title_notconnect">OpenVPN chưa kết nối</string>
+</resources>
